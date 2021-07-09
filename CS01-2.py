@@ -1,2 +1,2 @@
-A=input()
+A=int(input())
 print(A)
